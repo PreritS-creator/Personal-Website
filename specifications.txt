@@ -1,0 +1,4 @@
+1. 10 HTML Tags Used-  link, script, nav, div, a, button, span, ul, li, hr, etc.
+2. 5 CSS properties used - backround-image, height, margin, font-size, color, etc.
+3. Javascript - Used jquery to delay and add an animation-style as a slide from top to down to few of my pages
+4. Bootstrap - Used navbar
